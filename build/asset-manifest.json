@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iissaahh.github.io/build/static/css/main.e6c13ad2.css",
-    "main.js": "/iissaahh.github.io/build/static/js/main.946c4f1f.js",
-    "static/js/787.7acab544.chunk.js": "/iissaahh.github.io/build/static/js/787.7acab544.chunk.js",
-    "index.html": "/iissaahh.github.io/build/index.html",
-    "main.e6c13ad2.css.map": "/iissaahh.github.io/build/static/css/main.e6c13ad2.css.map",
-    "main.946c4f1f.js.map": "/iissaahh.github.io/build/static/js/main.946c4f1f.js.map",
-    "787.7acab544.chunk.js.map": "/iissaahh.github.io/build/static/js/787.7acab544.chunk.js.map"
+    "main.css": "/build/static/css/main.e6c13ad2.css",
+    "main.js": "/build/static/js/main.20f80f6e.js",
+    "static/js/787.7acab544.chunk.js": "/build/static/js/787.7acab544.chunk.js",
+    "index.html": "/build/index.html",
+    "main.e6c13ad2.css.map": "/build/static/css/main.e6c13ad2.css.map",
+    "main.20f80f6e.js.map": "/build/static/js/main.20f80f6e.js.map",
+    "787.7acab544.chunk.js.map": "/build/static/js/787.7acab544.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.946c4f1f.js"
+    "static/js/main.20f80f6e.js"
   ]
 }
